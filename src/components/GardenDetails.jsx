@@ -7,7 +7,6 @@ import gardening5 from '../assets/gardening/5.gif';
 import gardening6 from '../assets/gardening/6.gif';
 import gardening7 from '../assets/gardening/7.gif';
 
-
 const GardenDetails = () => {
   const { gardenId } = useParams();
 
