@@ -25,7 +25,7 @@ const Header = () => {
           animate={{ opacity: 1 }} 
           transition={{ duration: 0.5, delay: 0.2 }} and delay
         >
-          Garden Connect
+          GreenLink
         </motion.h1>
       </div>
       <nav className="space-x-4">
