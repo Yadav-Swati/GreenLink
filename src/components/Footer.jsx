@@ -15,7 +15,7 @@ const Footer = () => {
     >
       <div className="container mx-auto flex justify-between items-center">
         <div>
-          <h4 className="text-lg font-bold mb-2">Garden Connect</h4>
+          <h4 className="text-lg font-bold mb-2">GreenLinks</h4>
           <p className="text-gray-400">Connecting gardeners worldwide</p>
         </div>
         <div className="flex space-x-4">
